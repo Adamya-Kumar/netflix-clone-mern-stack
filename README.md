@@ -8,7 +8,7 @@ This project is a clone of Netflix built using the MERN stack (MongoDB, Express,
 
 ## Live Link
 
-The live version of the app can be accessed [here](#).
+The live version of the app can be accessed [here](https://netfilxclone-hbac.onrender.com).
 
 ## Dependencies
 
